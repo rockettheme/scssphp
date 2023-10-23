@@ -1,7 +1,4 @@
-# This repo has been archived
-
-
-#### Please go to https://github.com/scssphp/scssphp
+# SCSS compiler written in PHP . Abandoned version. For legacy, internal purposes only. Needed for maintaining PHP 8.x support.
 
 ----
 
